@@ -14,10 +14,10 @@ export function Navigation() {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-[#EBE6DD]/85 backdrop-blur-sm shadow-sm">
       <div className="container mx-auto px-4">
-        <div className="flex items-center justify-between h-40">
+        <div className="flex items-center justify-between h-20 md:h-40">
           {/* Logo */}
           <a href="/" className="flex items-center">
-            <div className="relative h-36 w-36 overflow-hidden">
+            <div className="relative h-20 w-20 md:h-36 md:w-36 overflow-hidden">
               <Image
                 src="/images/LOGO-Cursor.png"
                 alt="Hometown Hosting Stockholm"
