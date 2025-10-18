@@ -19,11 +19,11 @@ export function Navigation() {
           <a href="/" className="flex items-center">
             <div className="relative h-36 w-36 overflow-hidden">
               <Image
-                src="/images/design-mode/d4460e1f-3a99-4b92-989d-1afcad96fada-1%202.jpeg"
+                src="/images/LOGO-Cursor.png"
                 alt="Hometown Hosting Stockholm"
                 width={240}
                 height={240}
-                className="object-cover object-top scale-110"
+                className="object-contain"
                 priority
               />
             </div>

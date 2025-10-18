@@ -144,14 +144,14 @@ export function ContactForm() {
             <Mail className="mt-1 h-5 w-5 text-primary" />
             <div>
               <p className="font-medium">{t.contact.form.emailLabel}</p>
-              <p className="text-sm text-muted-foreground">info@hometownhosting.com</p>
+              <p className="text-sm text-muted-foreground">hej@hometownhosting.se</p>
             </div>
           </div>
           <div className="flex items-start gap-3">
             <Phone className="mt-1 h-5 w-5 text-primary" />
             <div>
               <p className="font-medium">{t.contact.form.phoneLabel}</p>
-              <p className="text-sm text-muted-foreground">(555) 123-4567</p>
+              <p className="text-sm text-muted-foreground">+46704969606</p>
             </div>
           </div>
           <div className="flex items-start gap-3">

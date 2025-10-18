@@ -18,18 +18,18 @@ export function Footer() {
             <h3 className="mb-4 text-lg font-semibold text-foreground">{t.footer.contact.title}</h3>
             <div className="space-y-3">
               <a
-                href="mailto:info@hometownhosting.com"
+                href="mailto:hej@hometownhosting.se"
                 className="flex items-center gap-2 text-sm text-muted-foreground transition-colors hover:text-primary"
               >
                 <Mail className="h-4 w-4" />
-                info@hometownhosting.com
+                hej@hometownhosting.se
               </a>
               <a
-                href="tel:+15551234567"
+                href="tel:+46704969606"
                 className="flex items-center gap-2 text-sm text-muted-foreground transition-colors hover:text-primary"
               >
                 <Phone className="h-4 w-4" />
-                (555) 123-4567
+                +46704969606
               </a>
             </div>
           </div>

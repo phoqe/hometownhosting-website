@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <main className="min-h-screen">
       <Navigation />
-      <Hero />
+      <Hero />                  
       <OurServices />
       <ContactSection />
       <Footer />

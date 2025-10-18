@@ -5,9 +5,9 @@ export const translations = {
     // Navigation
     nav: {
       logo: "Hometown Hosting",
-      aboutUs: "Om Oss",
-      ourServices: "Våra Tjänster",
-      scheduleConsultation: "Boka Gratis Konsultation",
+      aboutUs: "Om oss",
+      ourServices: "Våra tjänster",
+      scheduleConsultation: "Boka gratis konsultation",
     },
     // Hero
     hero: {
@@ -15,8 +15,8 @@ export const translations = {
       subtitle: "Vi hjälper dig att hyra ut din bostad på Airbnb. Du tjänar mer pengar – utan att lyfta ett finger.",
       description:
         "Medan du hyr ut tryggt, lönsamt och helt utan stress tar vi hand om all administration och städning.",
-      getStarted: "Kom Igång",
-      scheduleConsultation: "Boka Konsultation",
+      getStarted: "Kom igång",
+      scheduleConsultation: "Boka konsultation",
     },
     // About
     about: {
@@ -53,23 +53,23 @@ export const translations = {
     },
     // Services
     services: {
-      title: "Våra Tjänster",
+      title: "Våra tjänster",
       subtitle: "Vi hanterar allt från start till mål, så att du kan njuta av passiv inkomst utan något arbete.",
       items: [
         {
-          title: "Professionell Fotografering",
+          title: "Professionell fotografering",
           description:
             "Vi ser till att din bostad får professionella bilder av hög kvalitet – något som kan vara avgörande för lönsamheten. Bra fotografering lyfter fram bostadens bästa egenskaper och skapar ett inbjudande första intryck.",
         },
         {
-          title: "Hantera Incheckning",
+          title: "Hantera incheckning",
           description:
-            "Vi har automatiserat processen för att checka in gäster för att göra det enkelt för dem och helt handfritt för dig.",
+            "Vi har automatiserat processen för att checka in gäster för att göra det enkelt för dem och helt bekymmersfritt för dig.",
         },
         {
           title: "Städning",
           description:
-            "Varje städning mellan gäster är i princip en slutstädning. Att hålla fastigheten i toppskick ger 5-stjärniga recensioner, vilket betyder mer pengar för dig.",
+            "Varje städning mellan gäster motsvarar en noggrann slutstädning. Genom att hålla bostaden i toppskick får du 5-stjärniga recensioner – och därmed högre intäkter.",
         },
         {
           title: "Gästkommunikation 24/7",
@@ -90,10 +90,10 @@ export const translations = {
     },
     // Contact
     contact: {
-      title: "Kontakta Oss",
+      title: "Kontakta oss",
       subtitle: "Få en gratis inkomstbedömning för din fastighet.",
       form: {
-        title: "Kontakta Oss",
+        title: "Kontakta oss",
         description:
           "Har du frågor? Vi skulle gärna höra från dig. Skicka oss ett meddelande så svarar vi så snart som möjligt.",
         name: "Namn",
@@ -117,7 +117,7 @@ export const translations = {
         ],
         message: "Meddelande (Valfritt)",
         messagePlaceholder: "Berätta mer om din fastighet eller dina behov...",
-        submit: "Skicka Meddelande",
+        submit: "Skicka meddelande",
         sending: "Skickar...",
         successMessage: "Tack för ditt meddelande! Vi återkommer till dig snart.",
         errorMessage: "Det uppstod ett fel när meddelandet skickades. Försök igen eller kontakta oss direkt.",
@@ -127,9 +127,9 @@ export const translations = {
         locationText: "Betjänar fastigheter över hela landet",
       },
       schedule: {
-        title: "Boka En Konsultation",
+        title: "Boka en konsultation",
         description: "Välj en tid som passar dig för en gratis konsultation om din fastighet.",
-        button: "Boka Tid",
+        button: "Boka tid",
       },
     },
     // Footer
@@ -137,13 +137,13 @@ export const translations = {
       about: {
         title: "Om Hometown Hosting",
         description:
-          "Vi specialiserar oss på korttidsuthyrning och hjälper fastighetsägare att maximera sin inkomst genom professionell värdskap på Airbnb.",
+          "Vi specialiserar oss på korttidsuthyrning och hjälper fastighetsägare att maximera sin inkomst genom professionell uthyrningsservice på Airbnb.",
       },
       contact: {
         title: "Kontakt",
       },
       follow: {
-        title: "Följ Oss",
+        title: "Följ oss",
       },
       copyright: "Alla rättigheter förbehållna.",
     },
@@ -248,7 +248,7 @@ export const translations = {
         email: "Email",
         emailPlaceholder: "your@email.com",
         phone: "Phone",
-        phonePlaceholder: "(555) 123-4567",
+        phonePlaceholder: "+46704969606",
         interests: "I'm interested in help with...",
         interestsRequired: "Please select at least one option",
         interestOptions: [

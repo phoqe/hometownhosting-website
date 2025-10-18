@@ -36,6 +36,15 @@ export const metadata: Metadata = {
   description:
     "We host your apartment on Airbnb, Booking.com and Homeway. Professional short-term rental management - we handle bookings, guests, and cleaning.",
   generator: "v0.app",
+  icons: {
+    icon: "/images/LOGO-Cursor.png",
+    apple: "/images/LOGO-Cursor.png",
+  },
+  openGraph: {
+    title: "Hometown Hosting Stockholm",
+    description: "Professional short-term rental management in Stockholm",
+    images: ["/images/LOGO-Cursor.png"],
+  },
 }
 
 export default function RootLayout({
